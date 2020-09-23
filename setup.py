@@ -11,16 +11,16 @@ setup(
     package_data={
         "PyWeChatSpy": [
             "Launcher.exe",
-            "xiaolan/WeChatSpy.dll"
+            "1644691589/WeChatSpy.dll"
         ]
     },
     python_requires='>=3.8.0',
-    author="mengxiangsen",
+    author="veikai",
     author_email="veikai@126.com",
     description="A spy program that helps people make better use of WeChat",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url='https://github.com/mengxiangsen91/wechatxiaolan.git',
+    url='https://github.com/veikai/PyWeChatSpy.git',
     classifiers=[
         "Development Status :: 4 - Beta",
         "Programming Language :: Python :: 3.8",
